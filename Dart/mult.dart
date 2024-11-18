@@ -1,4 +1,5 @@
-// Function to multiply two numbers
+// Function to multiply two numbers using dart.
+
 int multiplyNumbers(int a, int b) {
   return a * b;
 }

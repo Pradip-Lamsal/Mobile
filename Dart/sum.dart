@@ -1,4 +1,5 @@
-// Function to calculate the sum of a list of numbers
+// Function to calculate the sum of a list of numbers using dart.
+
 int sumNumbers(List<int> numbers) {
   int total = 0;
   for (int number in numbers) {

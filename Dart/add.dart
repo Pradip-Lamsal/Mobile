@@ -1,4 +1,5 @@
-// Function to add two numbers
+// Function to add two numbers using dart.
+
 int addNumbers(int a, int b) {
   return a + b;
 }
